@@ -10,5 +10,7 @@ git commit -m "message" : to commit that has been tracked by git
 
 git push -u origin main : to push the commited file to the globel workspace
 
+git remote add origin link
+
 git init : to initialise git in folder
 
